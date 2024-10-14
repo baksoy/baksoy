@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @baksoy (Bera)
-- 👀 I’m interested in all things MuleSoft, Salesforce, and Flutter
-- 🌱 I’m looking to collaborate on all things tech
+- 👀 I’m interested in all things MuleSoft, Salesforce, and MuleSoft AI Chain
 - 📫 How to reach me linkedin.com/in/baksoy
 
 <!---
